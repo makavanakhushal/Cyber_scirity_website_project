@@ -209,6 +209,20 @@ footer {
     padding: 20px;
 }
 
+.form{
+       color: white;
+       text-align: left;
+}
+
+.khu {
+       background-color: lightseagreen;
+       color: white;
+       padding: 10px 20px;
+       border: none;
+       border-radius: 5px;
+       cursor: pointer;
+}
+
 /* ===============================
    EXTRA POLISH
 ================================ */
@@ -229,3 +243,4 @@ footer {
     background: linear-gradient(var(--primary), var(--secondary));
     border-radius: 10px;
 }
+
